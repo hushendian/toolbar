@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">PHPHub</string>
+
+    <string name="recommended">Recommended</string>
+    <string name="topics">Topics</string>
+    <string name="recent">Recent</string>
+    <string name="vote">Vote</string>
+    <string name="nobody">Nobody</string>
+    <string name="jobs">Jobs</string>
+    <string name="wiki">Wiki</string>
+    <string name="me">Me</string>
+
+    <string name="safe">Safe</string>
+    <string name="last_for">Last For</string>
+
+    <string name="my_messages">Messages</string>
+    <string name="my_following">Following</string>
+    <string name="my_favorite">Favorites</string>
+    <string name="my_topics">Topics</string>
+    <string name="my_replys">Replys</string>
+    <string name="settings">Settings</string>
+
+    <string name="ta_following">Ta 的关注</string>
+    <string name="ta_favorite">Ta 的收藏</string>
+    <string name="ta_topics">Ta 发表的话题</string>
+    <string name="ta_replys">Ta 发表的评论</string>
+
+    <string name="please_login">Please login</string>
+
+    <string name="report">Report</string>
+    <string name="share">Share</string>
+    <string name="edit">Edit</string>
+    <string name="publish">Publish</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="username">UserName</string>
+    <string name="profile">Profile</string>
+    <string name="address">Address</string>
+    <string name="github">Github</string>
+    <string name="twitter">Twitter</string>
+    <string name="blog">Blog</string>
+    <string name="his">His</string>
+    <string name="her">Her</string>
+    <string name="since">Since</string>
+    <string name="twitter_hint">Twitter 帐号, 不需要加前缀 https://twitter.com/</string>
+    <string name="github_hint">Github 帐号</string>
+    <string name="blog_hint">你的个人网站, 不需要加前缀 http://</string>
+
+    <string name="favorite_success">收藏成功!</string>
+    <string name="follow_success">关注成功!</string>
+    <string name="vote_up_success">点赞成功!</string>
+    <string name="vote_down_success">踩一下!</string>
+    <string name="cancel_success">取消成功!</string>
+    <string name="cancel_error">取消失败,请检查网络并重试.</string>
+
+    <string name="publish_topic">发布话题</string>
+    <string name="please_input_title">请填写标题</string>
+    <string name="content_input">请使用 Markdown 格式书写 ;-)</string>
+    <string name="choose_node">请选择节点</string>
+    <string name="node_info">发布到 %s 下</string>
+    <string name="publish_success">发布成功!</string>
+    <string name="publish_error">发布失败,请检查网络并重试.</string>
+    <string name="title_input_error">标题长度不能少于2个字符!</string>
+    <string name="body_input_error">内容长度不能少于2个字符!</string>
+    <string name="node_input_error">请选择节点!</string>
+    <string name="username_error">用户名不能为空</string>
+    <string name="success_title">提交成功!</string>
+    <string name="report_success">举报已提交</string>
+
+    <string name="reply_list">回复列表</string>
+    <string name="publish_reply">发表回复</string>
+    <string name="reply_empty">回复内容不能为空!</string>
+
+    <string name="submitting">请求中...</string>
+    <string name="loading">加载中...</string>
+
+    <string name="share_topic">分享 %s 的文章</string>
+    <string name="empty_content">无</string>
+
+</resources>
